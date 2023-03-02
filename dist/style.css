@@ -1,0 +1,35 @@
+* {
+    margin: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    padding: 25px;
+}
+
+h3 {
+    padding: 2px;
+}
+
+div {
+    box-shadow: 4px 4px 10px #aaaaaa;
+    margin: 10px;
+}
+
+p {
+    padding:2px;
+    text-align:start;
+}
+
+#manager_div {
+   background-color: lightsalmon;
+}
+
+#engineer_div {
+    background-color: lightcyan;
+}
+
+#intern_div {
+    background-color: lightgray;
+
+}
