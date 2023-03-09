@@ -56,7 +56,7 @@ const newManager = () => {
                         <h3>Manager</h3>
                         <p>Name: ${answers.name}</p>
                         <p>Email:
-                        <a href="${answers.email}">${answers.email}</a>
+                        <a href="mailto:${answers.email}"target="_blank">${answers.email}</a>
                         </p>
                         <p>Id: ${answers.id}</p>
                         <p>Office Number: ${answers.office}</p>
