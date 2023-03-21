@@ -14,7 +14,7 @@ Add team members and their informations and choose option finish building team i
 
 ## Link to walk through videos
 
-![alt text](./demos/ApplicationDemo.mov)
-![alt text](./demos/TestsDemo.mov)
+![application demo](./demos/ApplicationDemo.mov)
+![tests demo](./demos/TestsDemo.mov)
 ## Credits
 GitHub: AdMarom
