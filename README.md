@@ -19,8 +19,8 @@ Add team members and their informations and choose option finish building team i
 ![tests demo](./demos/TestsDemo.mov)
 
 ### Vimeo
-![application demo](https://vimeo.com/810296455)
-![tests demo](https://vimeo.com/810296499)
+[application demo](https://vimeo.com/810296455)
+[tests demo](https://vimeo.com/810296499)
 
 ## Credits
 GitHub: AdMarom
