@@ -23,7 +23,9 @@ Add team members and their informations and choose option finish building team i
 [application demo](https://vimeo.com/810296455)
 [tests demo](https://vimeo.com/810296499)
 
+## Sample HTML
 
+![example html](./example.html)
 
 ## Credits
 GitHub: AdMarom
