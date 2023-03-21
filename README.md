@@ -25,7 +25,7 @@ Add team members and their informations and choose option finish building team i
 
 ## Sample HTML
 
-![example html](./example.html)
+[example html](http://127.0.0.1:5500/Module-10-OOP-TeamGenerator/dist/example.html)
 
 ## Credits
 GitHub: AdMarom
