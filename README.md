@@ -12,6 +12,7 @@ Open up the terminal and type "Node index.js" to start the project command line
 ## Use
 Add team members and their informations and choose option finish building team in order to create an HTML file
 
+
 ## Link to walk through videos
 
 ### Download
@@ -21,6 +22,8 @@ Add team members and their informations and choose option finish building team i
 ### Vimeo
 [application demo](https://vimeo.com/810296455)
 [tests demo](https://vimeo.com/810296499)
+
+
 
 ## Credits
 GitHub: AdMarom
