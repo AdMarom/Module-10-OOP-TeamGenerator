@@ -23,9 +23,5 @@ Add team members and their informations and choose option finish building team i
 [application demo](https://vimeo.com/810296455)
 [tests demo](https://vimeo.com/810296499)
 
-## Sample HTML
-
-[example html](http://127.0.0.1:5500/Module-10-OOP-TeamGenerator/dist/example.html)
-
 ## Credits
 GitHub: AdMarom
